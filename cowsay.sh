@@ -1,4 +1,4 @@
-# make a cow say something?
+# wanma make a cow say something?
 # example:
 # cowsay "Hello world!"
 
