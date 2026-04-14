@@ -12,9 +12,9 @@
 execute their .sh files to install
 
 ## What do these packages do? ##
-to see that, opem the .sh files with nano or another text editor and see the comments i've left!
+to see that, open the .sh files with nano or another text editor and see the comments i've left!
 
-## IM STUCK IM CMATRIX HELPHELPHELP ##
+## IM STUCK IN CMATRIX HELPHELPHELP ##
 To exit stuff like cmatrix, htop... etc. you should use Ctrl+C or Q (ctrl+c works most of the time)
 
 
