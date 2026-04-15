@@ -17,4 +17,9 @@ to see that, open the .sh files with nano or another text editor and see the com
 ## IM STUCK IN CMATRIX HELPHELPHELP ##
 To exit stuff like cmatrix, htop... etc. you should use Ctrl+C or Q (ctrl+c works most of the time)
 
+## Common Issues ##
+X: Why can't i run the programs?
+haven't dome chmod +x FILE_NAME
 
+X: Package seems outdated/broken.
+haven't done pkg update && pkg upgrade
