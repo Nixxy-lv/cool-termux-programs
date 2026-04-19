@@ -1,4 +1,5 @@
-
+## WARNING ##
+MAKE SURE TO RUN `pkg update && pkg upgrade` BEFORE INSTALLING
 
 ## What packages does this contain? ##
 -cbonsai
